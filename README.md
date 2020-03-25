@@ -1,1 +1,1 @@
-# CZ3006-Assignments
+# CE3005-Computer-Network-Assignments
